@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" width="1400px">
 <h1 align="center">Hi 👋, I'm Ansh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshcoder2011&label=Profile%20views&color=0e75b6&style=flat" alt="anshcoder2011" /> </p>
@@ -10,25 +10,25 @@
 <p align="left"> <a href="https://twitter.com/anshsharma8011" target="blank"><img src="https://img.shields.io/twitter/follow/anshsharma8011?logo=twitter&style=for-the-badge" alt="anshsharma8011" /></a> </p>
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
 
-- 🔭 I’m currently working on [Ochi Website](https://ochi.design/)
+- 🔭 I’m currently working on Minecraft Client Project.
 
-- 🌱 I’m currently learning **React, Node js, GSAP and much more**
+- 🌱 I’m currently learning **React, Node js, AI WebDev**
 
-- 👯 I’m looking to collaborate on [Sundowns Website](https://sundowns.com)
+- 👯 I’m looking to collaborate on a full stack LMS Project
 
-- 🤝 I’m looking for help with **Backend Stuff**
+- 🤝 I’m looking for help with **DevOps and optimization**
 
-- 👨‍💻 All of my projects are available at [ansharmaportfolio.freewebhostmost.com](ansharmaportfolio.freewebhostmost.com)
+- 👨‍💻 All of my projects are available at my portfolio and GitHub.
 
 - 📝 I regularly write articles on [telegram](telegram)
 
-- 💬 Ask me about **HTML, CSS, JS, TailwindCSS**
+- 💬 Ask me about **HTML, CSS, JS, TailwindCSS, MERN, and many more web related libraries**
 
-- 📫 How to reach me **sharmacdpl@gmail.com**
+- 📫 How to reach me **anshsharma20118@gmail.com**
 
-- 📄 Know about my experiences [ansharmaportfolio.freewebhostmost.com](ansharmaportfolio.freewebhostmost.com)
+- 📄 Know about my experiences on [anshs.netlify.app](anshs.netlify.app)
 
-- ⚡ Fun fact **I am very good in making sketches(Potraits)**
+- ⚡ Fun fact **I am very good in making sketches(Potraits), cube solving, football, Atheletics and many more**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
