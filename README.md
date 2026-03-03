@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on Minecraft Client Project.
 
-- 🌱 I’m currently learning **React, Node js, AI WebDev**
+- 🌱 I’m currently learning **AI, exploring AI tech, Swelte js, typescript**
 
-- 👯 I’m looking to collaborate on a full stack LMS Project
+- 👯 I’m looking to collaborate on any Gen AI project
 
 - 🤝 I’m looking for help with **DevOps and optimization**
 
@@ -25,6 +25,8 @@
 - 💬 Ask me about **HTML, CSS, JS, TailwindCSS, MERN, and many more web related libraries**
 
 - 📫 How to reach me **anshsharma20118@gmail.com**
+
+- 💡 Planning to create a **Youtube Channel** to showcase the skills and learn Video Editing
 
 - 📄 Know about my experiences on [anshs.netlify.app](anshs.netlify.app)
 
