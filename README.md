@@ -50,6 +50,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshcoder2011&show_icons=true&locale=en&layout=compact" alt="anshcoder2011" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshcoder2011&show_icons=true&locale=en" alt="anshcoder2011" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnshCoder2011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnshCoder2011)](https://git.io/streak-stats)
 
