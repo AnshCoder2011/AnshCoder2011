@@ -51,7 +51,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshcoder2011&show_icons=true&locale=en" alt="anshcoder2011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshcoder2011&" alt="anshcoder2011" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnshCoder2011)](https://git.io/streak-stats)
 
 
 <!---
